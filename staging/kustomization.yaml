@@ -11,6 +11,4 @@ labels:
     project: instavote
 patches:
 - path: service.yaml
-images:
-  - name: schoolofdevops/vote
-    newName: jackynmtn90/vote
+
