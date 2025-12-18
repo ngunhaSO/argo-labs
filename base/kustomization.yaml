@@ -4,5 +4,4 @@ resources:
 - rollout.yaml
 - service.yaml
 - preview-service.yaml
-images:
-- name: schoolofdevops/vote
+
