@@ -11,6 +11,4 @@ labels:
     project: instavote
 patches:
 - path: service.yaml
-# --- Minimal images block for Argo Image Updater ---
-images:
-  - name: schoolofdevops/vote
+
